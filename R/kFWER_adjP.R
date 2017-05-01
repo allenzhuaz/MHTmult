@@ -89,7 +89,7 @@ gsidak.p.adjust <- function(p, k=1, alpha=0.05, make.decision=FALSE){
 #' @author Yalin Zhu
 #' @references Lehmann, E. L., & Romano, J. P. (2005).
 #' Generalizations of the familywise error rate.
-#' \emph{The Annals of Statistics}, \strong{33}(3), 1138-1154.
+#' \emph{The Annals of Statistics}, \strong{33}: 1138-1154.
 #' @examples
 #' p <- c(0.031,0.023,0.029,0.005,0.031,0.000,0.874,0.399,0.293,0.077)
 #' gbonf.p.adjust(p, k=2)

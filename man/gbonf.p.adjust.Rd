@@ -28,7 +28,7 @@ gbonf.p.adjust(p, k=2)
 \references{
 Lehmann, E. L., & Romano, J. P. (2005).
 Generalizations of the familywise error rate.
-\emph{The Annals of Statistics}, \strong{33}(3), 1138-1154.
+\emph{The Annals of Statistics}, \strong{33}: 1138-1154.
 }
 \seealso{
 \code{\link{gsidak.p.adjust}}, \code{\link[stats]{p.adjust}}, \code{\link[MHTdiscrete]{Sidak.p.adjust}}.
