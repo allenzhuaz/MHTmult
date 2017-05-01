@@ -1,0 +1,15 @@
+Package: MHTmult
+Type: Package
+Title: Multiple Hypotheses Testing for Multiple Families/Groups Structure
+Version: 0.1.0
+Author: Yalin Zhu, Wenge Guo
+Maintainer: Yalin Zhu <yalin.zhu@outlook.com>
+BugReports: https://github.com/allenzhuaz/MHTmult/issues
+Description: A Comprehensive tool for almost all existing multiple testing
+    methods for multiple families. The package summarizes the existing methods for mulitple families MTPs such as double FDR, group BH and average FDR controlling procedure. The package also provides some novel multiple testing
+    procedures using selective inference (or so-called "post-selection") idea.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: TRUE
+Suggests: structSSI, MHTdiscrete, FixSeqMTP
+NeedsCompilation: yes
